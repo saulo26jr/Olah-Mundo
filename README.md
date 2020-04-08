@@ -1,2 +1,2 @@
-# Olah Mundo
- Meu primeiro repositorio curso em vd gitngithub
+# Olá, Mundo!
+ Meu primeiro repositorio curso em video git e github
